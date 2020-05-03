@@ -1,12 +1,19 @@
 ---
-title: Sample Post with All Elements
-date: 2022-09-26
+title: Book - Habbit / 웬디 우드
+date: 2020-05-07
+category: Book
 ---
 
-This post shows all customized elements.
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+HABBIT - 웬디 우드
+
+## 기본정보
+
+*   다산북스 2019
+*   옮긴이 김윤재
 
 
+
+<!--
 ## Image
 
 ![Placeholder](https://via.placeholder.com/768x480)
@@ -59,3 +66,4 @@ Ut enim ad minima veniam, `quis` nostrum exercitationem ullam corporis suscipit 
 ## Paragraph
 
 Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
+-->
