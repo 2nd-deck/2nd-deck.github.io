@@ -1,57 +1,59 @@
-# basic
-# ============================================================================
-# if your site is serving on https://xxx.github.io, set `baseurl: /`
-# if your site is serving on https://xxx.github.io/path, set `baseurl: /path`
-baseurl: /
+# Site settings
+title: 2nd Deck Blog
+url: "http://2nd-deck.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "http://2nd-deck.github.io" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+#timezone: Asia/Chongqing
+description: >
+  One or more sentences introducing this blog.
 
-# site title
-title: 2nd Deck
+# Your information
+email: archness@naver.com
+author: 2nd deck
+avatar: "/img/avatar.jpg"
+profile: One sentence introducing yourself.
+#twitter_username: twitter_username
+#github_username:  github_username
+profile_links:
+  Email: "mailto:archness@naver.com"
+  GitHub: "https://2nd-deck.github.io"
+  # You can add more profile links above, or edit _includes/sidebar.html 
 
-# site favicon, absolute path required
-favicon: /assets/img/favicon2.ico
+# Comment Service (Disqus or 多说)
+#  choose one and un-comment the line to active it
+#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
-# home button image, absolute path requried
-avatar: /assets/img/avatar.jpg
-# specify meaningful description for your avatar
-avatarInfo: "Timothy"
+excerpt_separator: <!--more-->
 
-# default variables for post-type page
+header:
+  links:             # Links on the header. Link to in-site page with a slash as prefix
+    About: /about/
+    Category: /category/
+#    Donate: https://laobubu.net/donate.html
+
+permalink: /archivers/:title
+plugins:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 5
+paginate_path: "page:num"
+
+highlighter: rouge
+markdown: kramdown
+
+# https://jekyllrb.com/docs/configuration/#precedence
 defaults:
   -
     scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
-      layout: post
-      comment: true
+      layout: "post"
 
-
-# sass
-# ============================================================================
-sass:
-  sass_dir: _sass
-  style: compressed
-
-
-# exclude none site related files
-# ============================================================================
-exclude:
-  - README.md
-  - LICENSE
-  - github
-  - package.json
-  - package-lock.json
-  - node_modules
-
-
-# google analytics
-# ============================================================================
-# turn it off -> ga: false
-ga: UA-165434297-1
-
-
-# disqus
-# ============================================================================
-# turn it off for all posts -> disqus: false
-# turn it off for a particular post -> add `comment: false` to post front matter
-disqus: https-2nd-deck-github-io
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax

@@ -1,78 +1,55 @@
-![](https://raw.githubusercontent.com/kkninjae/book/master/github/hero.png)
+# jekyll-theme-EasyBook
 
+Another Jekyll Blog Theme "EasyBook"
 
-# Book
+Start blogging with a simple but powerful theme.
 
-Book, a simple and ready-to-use Jekyll theme. [Live](http://kkninjae.github.io/book/).
+## Features
 
+- Everything Basic Jekyll has.
+- **Pagination** is enabled.
+- **Comments** using Disqus or 多说.
+- **TOC** makes reading easier.
+- **Profile** including your links and avatar on the sidebar.
+- *And more...*
 
-## How-to
+## Install
 
-*   [Setup](#setup)
-*   [Customization](#customization)
-*   [Writing Posts](#writing-posts)
-*   [Deploy to Github Page](#deploy-to-gh-pages)
+Read [Quick Guide] to learn how to install and publish.
 
+Read [Welcome to Jekyll and EasyBook][helloPost] and [Jekyll][jekyll] for further information.
 
-### <a name="setup" id>Setup</a>
+**If need help, please:**
 
-```sh
-# get a copy of book source code
-$ git clone https://github.com/kkninjae/book.git
+ - [**Read Wiki pages**](https://github.com/laobubu/jekyll-theme-EasyBook/wiki)
+ - **Google it**
+ - [**Submit an issue**](https://github.com/laobubu/jekyll-theme-EasyBook/issues/new)
 
-# running site locally
-$ jekyll serve -w
+## Donate
 
-# from now, you should be able to start development or customization
+Buy me a coffee if you find EasyBook useful for you :smiley:
+
+Visit <http://laobubu.net/donate.html>
+
+## Demo
+
+[laobubu's blog](http://blog.laobubu.net) | [empty site](http://laobubu.github.io/jekyll-theme-EasyBook)
+
+![Homepage](https://ooo.0o0.ooo/2016/02/11/56bc997c65daf.png)
+
+## License
+
+```
+The MIT License (MIT)
+Copyright (c) 2016 laobubu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-
-### <a name="customization">Customization</a>
-
-Book is designed as simple as possible, but few changes can make your site uniq.
-You only need to change the values of keys in `_config.yml` file.
-
-*   Change site path: `baseurl`
-*   Give your site a name: `title`
-*   Make a site favicon: `favicon`
-*   Make a special home button image: `avatar`
-
-
-Last but not least
-
-*   If you are using Google analytics: `ga`
-*   If you are using Disqus commenting system: `disqus`
-
-
-### <a name="writing-posts">Writing Posts</a>
-
-Make a markdown file in `_posts` directory,
-follow [Jekyll post naming convention](https://jekyllrb.com/docs/posts/) to name your post,
-and put following front matter to the top of your post.
-You should be able to start to write your awesome post.
-Read this [POST](https://kkninjae.github.io/book/2015/08/28/how-to-use-book.html) to know more tips.
-
-```markdown
----
-title: Your awesome post title
-date: YYYY-MM-DD
----
-```
-
-
-### <a name="deploy-to-gh-pages">Deploy to Github Page</a>
-
-There is a deploying script built out of box.
-You need to install one more tool before using it which is [npm](https://www.npmjs.com/get-npm).
-This script will push your current static site to `gh-pages` branch.
-If there is no `gh-pages` branch yet, the script will create it for you.
-
-```sh
-# start to deploy your site to Github pages
-$ npm run deploy
-```
-
-
-## End.
-
-If you like this theme, why not give it a star. :)
+[Quick Guide]: https://github.com/laobubu/jekyll-theme-EasyBook/wiki/Quick-Guide
+[helloPost]: http://laobubu.github.io/jekyll-theme-EasyBook/archivers/hello
+[jekyll]: http://jekyllrb.com/
