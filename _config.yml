@@ -4,13 +4,13 @@ url: "https://2nd-deck.github.io"    # the protocol and hostname of your site, e
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  Keep Looking, don't settle.
 
 # Your information
 email: archness@naver.com
 author: 2nd deck
 avatar: "/img/avatar.jpg"
-profile: One sentence introducing yourself.
+profile: Keep Looking, don't settle.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
