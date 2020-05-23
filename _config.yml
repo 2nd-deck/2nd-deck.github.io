@@ -2,7 +2,8 @@
 title: 2nd Deck Blog
 url: "https://2nd-deck.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
-#timezone: Asia/Chongqing
+timezone: Asia/Seoul
+future: true
 description: >
   Keep Looking, don't settle.
 
