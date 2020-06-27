@@ -1,7 +1,7 @@
 ---
 title: Book - 울트라 러닝 / 스콧 영
 date: 2020-06-22
-category: Book
+category: No.1 Hold
 ---
 
 울트라 러닝 - 스콧 영

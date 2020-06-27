@@ -1,7 +1,7 @@
 ---
 title: Book - 루틴의 힘 / 댄 애리얼리 외
 date: 2020-06-17
-category: Book
+category: No.1 Hold
 ---
 
 루틴의 힘 - 댄 애리얼리 외

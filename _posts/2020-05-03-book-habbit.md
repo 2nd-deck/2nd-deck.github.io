@@ -1,7 +1,7 @@
 ---
 title: Book - Habbit / 웬디 우드
 date: 2020-05-03
-category: Book
+category: No.1 Hold
 ---
 
 HABBIT - 웬디 우드
