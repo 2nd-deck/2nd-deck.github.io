@@ -1,8 +1,8 @@
 ---
 title: Blog 이전 예정
-date: 2020-05-01
+date: 2020-06-28
 category: 2nd Deck
-comment: false
+#comment: false
 ---
 
 Github Pages에 Jekyll을 사용하여 블로그를 만들었는데 (나로서는)해결 불가한 이미지 로딩에 문제가 있다. 포스팅의 이미지 경로가 다 다른데도 하나의 파일만 로딩되는 현상이... 한번씩 빌드가 안되서 업데이트 되는 속도가 느린것도 불만이었고!  
