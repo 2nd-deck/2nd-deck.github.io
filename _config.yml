@@ -49,7 +49,7 @@ markdown: kramdown
 defaults:
   -
     scope:
-      path: ""
+      path: "img"
       type: "posts"
     values:
       layout: "post"
