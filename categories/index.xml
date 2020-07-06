@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on 2nd-deck Blog</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on 2nd-deck Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-ko</language>
+    <copyright>©2020 2nd Deck</copyright>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2nd Deck</title>
+      <link>/categories/2nd-deck/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/2nd-deck/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>No.1 Hold</title>
+      <link>/categories/no.1-hold/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/no.1-hold/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Double Bottom</title>
+      <link>/categories/double-bottom/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/double-bottom/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bosun store</title>
+      <link>/categories/bosun-store/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/bosun-store/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>E/R</title>
+      <link>/categories/e/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/e/r/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

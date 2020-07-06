@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2nd Deck on 2nd-deck Blog</title>
+    <link>/categories/2nd-deck/</link>
+    <description>Recent content in 2nd Deck on 2nd-deck Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-ko</language>
+    <copyright>©2020 2nd Deck</copyright>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/2nd-deck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo를 이용한 Blog로 이전</title>
+      <link>/post/2020-07-06-hugo/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-07-06-hugo/</guid>
+      <description>Jekyll에서 Hugo로의 변경 계기 Settings Hugo 설치 Hugo Latest Release 다운로드 C:\Hugo\bin에 압축해제 환경변수 PATH에 위 경로 추가 다른 폴더상에서 hugo ver</description>
+      
+    </item>
+    
+    <item>
+      <title>Blog 이전 예정</title>
+      <link>/post/2020-06-28-imigration/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-06-28-imigration/</guid>
+      <description>Github Pages에 Jekyll을 사용하여 블로그를 만들었는데 (나로서는)해결 불가한 이미지 로딩에 문제가 있다. 포스팅의 이미지 경로가 다 다른데도 하나의 파일</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown 문법</title>
+      <link>/post/2020-05-06-markdown/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-05-06-markdown/</guid>
+      <description>마크다운(markdown)은 일반 텍스트 문서의 양식을 편집하는 문법이다. 특수 기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여 보다 빠르게 Cont</description>
+      
+    </item>
+    
+    <item>
+      <title>Blog 시작</title>
+      <link>/post/2020-05-01-start/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-05-01-start/</guid>
+      <description>Blog 시작 :)</description>
+      
+    </item>
+    
+  </channel>
+</rss>

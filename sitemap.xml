@@ -1,37 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://2nd-deck.github.io/</loc>
-  <lastmod>2020-05-03T23:04:15+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://2nd-deck.github.io/posts.html</loc>
-  <lastmod>2020-05-03T23:04:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://2nd-deck.github.io/book/2020/05/03/book-habbit.html</loc>
-  <lastmod>2020-05-03T23:04:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://2nd-deck.github.io/running/2020/05/02/running.html</loc>
-  <lastmod>2020-05-03T23:04:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://2nd-deck.github.io/2020/05/01/start.html</loc>
-  <lastmod>2020-05-03T23:04:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>/categories/2nd-deck/</loc><lastmod>2020-07-06T00:00:00+00:00</lastmod></url><url>
+    <loc>/</loc><lastmod>2020-07-06T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/</loc><lastmod>2020-07-06T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-07-06-hugo/</loc><lastmod>2020-07-06T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/</loc><lastmod>2020-07-06T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-07-03-running/</loc><lastmod>2020-07-03T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-07-03-book-git/</loc><lastmod>2020-07-03T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/no.1-hold/</loc><lastmod>2020-07-03T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-07-01-running/</loc><lastmod>2020-07-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-28-imigration/</loc><lastmod>2020-06-28T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-26-running/</loc><lastmod>2020-06-26T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/double-bottom/</loc><lastmod>2020-06-26T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-26-surfing/</loc><lastmod>2020-06-26T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-22-running/</loc><lastmod>2020-06-22T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-22-book-ultralearning/</loc><lastmod>2020-06-22T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-19-running/</loc><lastmod>2020-06-19T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-17-book-routin/</loc><lastmod>2020-06-17T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-15-running/</loc><lastmod>2020-06-15T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-12-running/</loc><lastmod>2020-06-12T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-09-running/</loc><lastmod>2020-06-09T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-04-running/</loc><lastmod>2020-06-04T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/bosun-store/</loc><lastmod>2020-06-02T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-06-02-printink/</loc><lastmod>2020-06-02T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-31-running/</loc><lastmod>2020-05-31T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-29-running/</loc><lastmod>2020-05-29T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-24-running/</loc><lastmod>2020-05-24T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-23-book-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EA%B8%80%EC%93%B0%EA%B8%B0/</loc><lastmod>2020-05-23T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-22-running/</loc><lastmod>2020-05-22T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-20-running/</loc><lastmod>2020-05-20T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-18-running/</loc><lastmod>2020-05-18T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-12-running/</loc><lastmod>2020-05-12T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-10-running/</loc><lastmod>2020-05-10T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-06-running/</loc><lastmod>2020-05-06T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-06-markdown/</loc><lastmod>2020-05-06T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-03-book-habbit/</loc><lastmod>2020-05-03T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-02-running/</loc><lastmod>2020-05-02T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-05-01-start/</loc><lastmod>2020-05-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/e/r/</loc></url><url>
+    <loc>/tags/</loc></url></urlset>

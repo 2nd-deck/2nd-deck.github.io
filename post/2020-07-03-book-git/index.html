@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.73.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>Book - 깃&깃허브 입문 / 고경희&nbsp;&ndash;&nbsp;2nd-deck Blog</title><link rel="stylesheet" href="/css/core.min.d77b86bdf15df3a7758411eab78a6c8622985e136239b6eb8307e92b8826b6d95dd433b7f3925f128e4747ec1b366b99.css" integrity="sha384-13uGvfFd86d1hBHqt4pshiKYXhNiObbrgwfpK4gmttld1DO385JfEo5HR&#43;wbNmuZ"><meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Book - 깃&amp;깃허브 입문 / 고경희" /><body><section id="header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">2nd-deck Blog</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/categories/">Categories</a><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a><a class="nav item" href="https://smartstore%2enaver%2ecom/muubox"target="_blank">Moony Box</a></nav></div></span></div><div class="site slogan"><span class="title">Keep Looking and Don't Settle.</span></div></section><section id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">Book - 깃&깃허브 입문 / 고경희</h1><p class="article date">Friday, July 3, 2020</p></section><article class="article markdown-body"><p>깃&amp;깃허브 입문 - 고경희</p>
+<h2 id="기본정보">기본정보</h2>
+<ul>
+<li>이지스 퍼블리싱 2019</li>
+</ul>
+<h2 id="감상">감상</h2>
+<p>무료코딩 강좌의 성지 **생활코딩(이고잉)**에서 책이 나온다면 아는 사람은 누구나 한번쯤 집어 들어볼 것이다. 깃 관련 책을 찾다가 표지만 딱 보고 데려왔지만 작가는 다른사람이네? 생활 코딩 내용을 엮긴했는데, 이고잉님이 책 한번 내주시길&hellip;<br>
+깃의 기본 기능과 github 사용법, pages와 jekyll을 이용한 정적웹사이트 생성, VSCode와의 연동등 초보자가 이해하기 쉽게 잘 설명 되어 있다.</p>
+<h2 id="내용">내용</h2>
+<h3 id="깃의-핵심기능">깃의 핵심기능</h3>
+<p>크게 버전관리, 백업, 협업 세가지로 나눌 수 있다.</p>
+<h3 id="리눅스-기본-명령어">리눅스 기본 명령어</h3>
+<ul>
+<li>pwd : 현재 위치</li>
+<li>ls : list (-a 숨김 표시, -l 상세정보, -r 정렬 순서 거꾸로, -t 파일 작성순으로 표시)</li>
+<li>cd : 디렉토리 이동</li>
+<li>mkdir : 디렉토리 생성</li>
+<li>rm : 삭제</li>
+<li>vim : 빔 실행 (a 또는 i 입력모드 변경, esc 저장EX모드, :wq 저장,종료) - code는 VSCode실행</li>
+<li>cat : 출력</li>
+</ul>
+<h3 id="git-사용">Git 사용</h3>
+<ul>
+<li>git init : 깃 사용시작</li>
+<li>git status : 현재 상황</li>
+<li>git add : 스테이징</li>
+<li>git add . : 현재 저장된 모든 파일 스테이징</li>
+<li>git commit -m &ldquo;message1&rdquo; : 커밋</li>
+<li>git log : log 확인</li>
+<li>git -am : 스테이징과 커밋 동시에</li>
+<li>git diff : 변경사항 확인</li>
+<li>git checkout &ndash;  : 되돌리기</li>
+<li>git reset HEAD : 스테이지에서 내리기</li>
+<li>git reset HEAD^ : 커밋 되돌리기</li>
+<li>git reset &ndash;hard 커밋 해시: 해당 커밋으로 돌아감(연결이 끊긴 커밋은 삭제)</li>
+<li>git revert 커밋 해시: 해당 커밋으로 돌아가나 앞 버전이 삭제 되지 않음</li>
+</ul>
+<h3 id="브랜치">브랜치</h3>
+<p>마스터에서 브랜치 분기/병합</p>
+<ul>
+<li>git branch : 브랜치 생성/확인 (&ndash;delete 삭제 -d 또는 -D 병합되지 않은 브랜치 강제 삭제)</li>
+<li>git checkout : 브랜치로 작업환경 이동</li>
+<li>git log &ndash;oneline &ndash;branches &ndash;graph : 각 브랜치 커밋 보기, 브랜치와 커밋 관계 표시</li>
+<li>git log master..branch : 마스터에 없고 브랜치에 있는것(반대 가능)</li>
+<li>git merge : master로 병합</li>
+<li>git merge branch &ndash;edit : 병합시 text편집기 실행(&ndash;no-edit)</li>
+<li>git stash : 커밋되지 않은 수정 내용 따로 보관(수정중인 파일을 전체보관)</li>
+<li>git stash pop: 불러오기</li>
+</ul>
+<p>다른 문서는 합쳐짐.<br>
+같은 문서 다른 위치 병합시: 자동으로 합쳐주는 기능<br>
+같은 문서 같은 위치 병합시: 자동병합 충돌, 메뉴얼 수정</p>
+<ul>
+<li>충돌 해결 프로그램 3 way merge: P4Merge, Meld, Kdiff3 <br>
+삭제한 브랜치 이름으로 새로 생성하면 내용 그대로 생성됨</li>
+</ul>
+<h3 id="github-원격저장소">GitHub 원격저장소</h3>
+<ul>
+<li>git remote add origin 주소: 원격 저장소에 연결</li>
+<li>git push -u origin master: 원격 저장소 연결 파일 올리기</li>
+<li>git push: 올리기</li>
+<li>git pull origin master:가져오기</li>
+<li>git pull:가져오기</li>
+<li>git clone: 복제</li>
+<li>git fetch: 원격 저장소의 정보 가져오기</li>
+</ul>
+<p>오픈소스에 기여
+Fork: 오픈 소스 저장소 복제<br>
+Clone<br>
+작업<br>
+commit<br>
+pull requests</p>
+</article><section class="article labels"><a class="category" href=/categories/no%2e1-hold/>No.1 Hold</a></section></div>
+<div class="article bottom"><section class="article navigation"><p><a class="link" href="/post/2020-07-03-running/"><span class="iconfont icon-article"></span>20200703 Running</a></p><p><a class="link" href="/post/2020-07-01-running/"><span class="iconfont icon-article"></span>20200701 Running</a></p></section></div></section><section id="footer"><div class="footer-wrap">
+    <p class="copyright">©2020 2nd Deck</p>
+    </div></section></body>
+
+</html>
