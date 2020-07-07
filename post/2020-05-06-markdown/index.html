@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.73.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>Markdown 문법&nbsp;&ndash;&nbsp;2nd-deck Blog</title><link rel="stylesheet" href="/css/core.min.d77b86bdf15df3a7758411eab78a6c8622985e136239b6eb8307e92b8826b6d95dd433b7f3925f128e4747ec1b366b99.css" integrity="sha384-13uGvfFd86d1hBHqt4pshiKYXhNiObbrgwfpK4gmttld1DO385JfEo5HR&#43;wbNmuZ"><meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Markdown 문법" /><body><section id="header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">2nd-deck Blog</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/categories/">Categories</a><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a><a class="nav item" href="https://smartstore%2enaver%2ecom/muubox"target="_blank">Moony Box</a></nav></div></span></div><div class="site slogan"><span class="title">Keep Looking and Don't Settle.</span></div></section><section id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">Markdown 문법</h1><p class="article date">Wednesday, May 6, 2020</p></section><article class="article markdown-body"><p>마크다운(markdown)은 일반 텍스트 문서의 양식을 편집하는 문법이다. 특수 기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여 보다 빠르게 Content를 작성할 수 있다. README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문서 양식을 편집할 때 쓰이며, 마크다운을 이용해 작성된 문서는 쉽게 HTML 등 다른 문서형태로 변환이 가능하다.</p>
+<h2 id="1-헤더-header">1. 헤더 Header</h2>
+<hr>
+<pre><code># Head 1
+## Head 2
+### Head 3
+#### Head 4
+##### Head 5
+###### Head 6
+</code></pre><h1 id="head-1">Head 1</h1>
+<h2 id="head-2">Head 2</h2>
+<h3 id="head-3">Head 3</h3>
+<h4 id="head-4">Head 4</h4>
+<h5 id="head-5">Head 5</h5>
+<h6 id="head-6">Head 6</h6>
+<h2 id="2-목록-lists">2. 목록 Lists</h2>
+<hr>
+<h3 id="unordered-list">Unordered list</h3>
+<pre><code>*   the first unordered list item
+*   the second unordered list item
+*   the third unordered list item
+
+또는 
+
++   list1
+    -   list2
+        +   list3
+</code></pre><ul>
+<li>the first unordered list item</li>
+<li>the second unordered list item</li>
+<li>the third unordered list item</li>
+</ul>
+<ul>
+<li>list1
+<ul>
+<li>list2
+<ul>
+<li>list3</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="ordered-list">Ordered list</h3>
+<pre><code>1.  the first ordered list item
+1.  the second ordered list item
+1.  I contain an `inline code`
+</code></pre><ol>
+<li>the first ordered list item</li>
+<li>the second ordered list item</li>
+<li>I contain an <code>inline code</code></li>
+</ol>
+<h2 id="3-indent">3. indent</h2>
+<hr>
+<p>Tab or space bar x 4</p>
+<h2 id="4-줄바꿈">4. 줄바꿈</h2>
+<hr>
+<p>문장 마지막 space bar x 3</p>
+<h2 id="5-code-block">5. Code block</h2>
+<hr>
+<p>(&ldquo;```&rdquo;)을 시작과 끝에</p>
+<h2 id="6-line">6. Line</h2>
+<hr>
+<pre><code>***
+*****
+* * *
+- - -
+-----
+</code></pre><hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<h2 id="7-blockquote">7. Blockquote</h2>
+<hr>
+<pre><code>&gt; level 1 
+&gt;   &gt; level 2
+&gt;   &gt;   &gt; level 3
+</code></pre><blockquote>
+<p>level 1</p>
+<blockquote>
+<p>level 2</p>
+<blockquote>
+<p>level 3</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="8-강조">8. 강조</h2>
+<hr>
+<pre><code>*single asterisks*   
+_single underscores_   
+**double asterisks**   
+__double underscores__   
+~~cancelline~~   
+</code></pre><p><em>single asterisks</em><br>
+<em>single underscores</em><br>
+<strong>double asterisks</strong><br>
+<strong>double underscores</strong><br>
+<del>cancelline</del></p>
+<h2 id="9-image">9. Image</h2>
+<hr>
+<pre><code>![Placeholder](https://via.placeholder.com/768x480)
+</code></pre><p><img  src="https://via.placeholder.com/768x480"
+        alt="Placeholder"/></p>
+<h2 id="10-link">10. Link</h2>
+<hr>
+<pre><code>사용문법: [Title](link)
+적용예: [2nd Deck](https://2nd-deck.github.io, &quot;2nddeck link&quot;)
+</code></pre><p>Link: <a href="https://2nd-deck.github.io,"title="2nddeck link"target="_blank">2nd Deck</a></p>
+</article><section class="article labels"><a class="category" href=/categories/2nd-deck/>2nd Deck</a></section></div>
+<div class="article bottom"><section class="article navigation"><p><a class="link" href="/post/2020-05-06-running/"><span class="iconfont icon-article"></span>20200506 Running</a></p><p><a class="link" href="/post/2020-05-03-book-habbit/"><span class="iconfont icon-article"></span>Book - Habbit / 웬디 우드</a></p></section></div></section><section id="footer"><div class="footer-wrap">
+    <p class="copyright">©2020 2nd Deck</p>
+    </div></section></body>
+
+</html>
