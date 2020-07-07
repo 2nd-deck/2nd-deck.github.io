@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>No.1 Hold</title>
+      <link>/categories/no.1-hold/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/no.1-hold/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>2nd Deck</title>
@@ -18,16 +28,6 @@
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/2nd-deck/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>No.1 Hold</title>
-      <link>/categories/no.1-hold/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/no.1-hold/</guid>
       <description></description>
       
     </item>
