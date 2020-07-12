@@ -1,9 +1,7 @@
 ---
-layout: page
-title: About
+title: 'Welcome to 2nd Deck Blog'
+weight: 2
 permalink: /about/
 ---
 
-Welcome to 2nd Deck Blog!
-
-> ME FIRST
+Me First.
