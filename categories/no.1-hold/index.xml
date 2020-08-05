@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/no.1-hold/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book - 디커플링 / 탈레스 S.테세이라</title>
+      <link>/post/2020-07-30-book-decoupling/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-07-30-book-decoupling/</guid>
+      <description>디커플링 - 탈레스 S.테세이라 기본정보 인플루엔셜 2019 김인수 옮김 감상 넷플릭스, 우버, 에어비엔비등 한순간에 시장을 점령한 신흥 기업들을 디커플링이라는 단어</description>
+      
+    </item>
+    
+    <item>
+      <title>Book - 딥러닝 입문 / 박해선</title>
+      <link>/post/2020-07-20-book-deeplearning/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-07-20-book-deeplearning/</guid>
+      <description>딥러닝 입문 - 박해선 기본정보 이지스퍼블리싱 2020 감상 AI, 머신러닝, 딥러닝, 강화학습등 말만 어려운데 그 안에 있는 선형회귀, 경사 하강법, 에포크등은 도저히 감이</description>
+      
+    </item>
     
     <item>
       <title>Book - 바디 / 빌브라이슨</title>
