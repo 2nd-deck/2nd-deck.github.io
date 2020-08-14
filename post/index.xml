@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20200810 Running</title>
+      <link>/post/2020-08-10-running/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-10-running/</guid>
+      <description>5.01km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200806 Running</title>
+      <link>/post/2020-08-06-running/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-06-running/</guid>
+      <description>4.84km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
+      
+    </item>
     
     <item>
       <title>20200803 Running</title>
@@ -39,16 +59,6 @@
       
       <guid>/post/2020-07-29-running/</guid>
       <description>4.96km Running NRC 추가 동네 한바퀴 흐림, 24도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>Markdown 그리스문자 삽입</title>
-      <link>/post/2020-07-27-alpabeta/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-27-alpabeta/</guid>
-      <description>주피터 노트북의 마크다운(markdown) 쉘에서 그리스 문자 입력 방법 알파벳 알파벳 영문 표기법 한글 표기법 \alpha alpha $$\gamma$$ # Head 1 ## Head 2 ### Head 3 #### Head 4 ##### Head 5 ###### Head 6</description>
       
     </item>
     

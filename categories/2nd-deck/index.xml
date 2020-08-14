@@ -14,10 +14,10 @@
     
     <item>
       <title>Markdown 그리스문자 삽입</title>
-      <link>/post/2020-07-27-alpabeta/</link>
+      <link>/2020-07-27-alpabeta/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-07-27-alpabeta/</guid>
+      <guid>/2020-07-27-alpabeta/</guid>
       <description>주피터 노트북의 마크다운(markdown) 쉘에서 그리스 문자 입력 방법 알파벳 알파벳 영문 표기법 한글 표기법 \alpha alpha $$\gamma$$ # Head 1 ## Head 2 ### Head 3 #### Head 4 ##### Head 5 ###### Head 6</description>
       
     </item>
