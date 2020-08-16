@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book - 그림으로 배우는 네트워크 원리 / Gene</title>
+      <link>/post/2020-08-16-book-network/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-16-book-network/</guid>
+      <description>그림으로 배우는 네트워크 원리 - Gene 기본정보 영진닷컴 2019 김성훈 옮김 감상 책을 펼치면 왼쪽 페이지는 설명, 오른쪽은 그림으로 네트워크의 구조를 설명하고 있다. 이러</description>
+      
+    </item>
+    
+    <item>
+      <title>20200814 Running</title>
+      <link>/post/2020-08-10-running-copy/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-10-running-copy/</guid>
+      <description>4.95km Running NRC 추가 동네 한바퀴 흐림, 28도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>Book - 딥러닝 입문 / 박해선</title>
+      <link>/post/2020-08-14-book-deeplearning/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-14-book-deeplearning/</guid>
+      <description>딥러닝 입문 - 박해선 기본정보 이지스퍼블리싱 2020 감상 AI, 머신러닝, 딥러닝, 강화학습등 말만 어려운데 그 안에 있는 선형회귀, 경사 하강법, 에포크등은 도저히 감이</description>
+      
+    </item>
     
     <item>
       <title>20200810 Running</title>
@@ -79,16 +109,6 @@
       
       <guid>/post/2020-07-20-running/</guid>
       <description>4.57km Running NRC 추가 동네 한바퀴 못뜀 흐림, 26도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>Book - 딥러닝 입문 / 박해선</title>
-      <link>/post/2020-07-20-book-deeplearning/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-20-book-deeplearning/</guid>
-      <description>딥러닝 입문 - 박해선 기본정보 이지스퍼블리싱 2020 감상 AI, 머신러닝, 딥러닝, 강화학습등 말만 어려운데 그 안에 있는 선형회귀, 경사 하강법, 에포크등은 도저히 감이</description>
       
     </item>
     
