@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/2nd-deck/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Markdown 그리스문자 삽입</title>
-      <link>/2020-07-27-alpabeta/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <title>React</title>
+      <link>/post/2020-08-19-react/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020-07-27-alpabeta/</guid>
-      <description>주피터 노트북의 마크다운(markdown) 쉘에서 그리스 문자 입력 방법 알파벳 알파벳 영문 표기법 한글 표기법 \alpha alpha $$\gamma$$ # Head 1 ## Head 2 ### Head 3 #### Head 4 ##### Head 5 ###### Head 6</description>
+      <guid>/post/2020-08-19-react/</guid>
+      <description>생활코딩 React강의 개요 Component 작성으로 얻는 것 가독성 재사용성 유지보수 개발환경 nodejs 설치 cmd에서 npm -v 를 입력하여 설치확인 create-react-app 설치 cmd 상에서 (실습용) npm install -g</description>
       
     </item>
     

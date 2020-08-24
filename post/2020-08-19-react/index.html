@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.73.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>React&nbsp;&ndash;&nbsp;2nd-deck Blog</title><link rel="stylesheet" href="/css/core.min.d77b86bdf15df3a7758411eab78a6c8622985e136239b6eb8307e92b8826b6d95dd433b7f3925f128e4747ec1b366b99.css" integrity="sha384-13uGvfFd86d1hBHqt4pshiKYXhNiObbrgwfpK4gmttld1DO385JfEo5HR&#43;wbNmuZ"><meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="React" /><body><section id="header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">2nd-deck Blog</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/categories/">Categories</a><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a><a class="nav item" href="https://smartstore%2enaver%2ecom/muubox"target="_blank">Moony Box</a></nav></div></span></div><div class="site slogan"><span class="title">Keep Looking and Don't Settle.</span></div></section><section id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">React</h1><p class="article date">Monday, August 24, 2020</p></section><article class="article markdown-body"><p>생활코딩 React강의</p>
+<h2 id="개요">개요</h2>
+<p>Component 작성으로 얻는 것</p>
+<ol>
+<li>가독성</li>
+<li>재사용성</li>
+<li>유지보수</li>
+</ol>
+<h2 id="개발환경">개발환경</h2>
+<ol>
+<li>
+<p>nodejs 설치</p>
+<ul>
+<li>cmd에서 npm -v 를 입력하여 설치확인</li>
+</ul>
+</li>
+<li>
+<p>create-react-app 설치</p>
+<ul>
+<li>cmd 상에서
+(실습용)</li>
+</ul>
+<pre><code>npm install -g create-react-app@2.1.8
+</code></pre><p>(실제 사용시 최신버전을 쓸때 npm대신 npx사용)</p>
+</li>
+<li>
+<p>세팅</p>
+<ul>
+<li>폴더 생성</li>
+<li>cmd에서 폴더로 이동후</li>
+</ul>
+<pre><code>create-react-app .
+</code></pre><ul>
+<li>웹앱 실행</li>
+</ul>
+<pre><code>npm run start
+</code></pre></li>
+<li>
+<p>배포</p>
+<ul>
+<li>브라우저 reload에 우클릭해서 &lsquo;Empty Cache and Hard Reload&rsquo;해서 보면 1.7M를 다운로드한다.</li>
+<li>개발모드에서는</li>
+</ul>
+<pre><code>npm run start
+</code></pre><ul>
+<li>빌드할때는</li>
+</ul>
+<pre><code>npm run build
+</code></pre><p>이렇게 하면 build 폴더가 생기고 살펴보면 공백이 없고 폴더내 html 파일 용량이 줄어든다.</p>
+<ul>
+<li>실제 서비스 할때는 buil 폴더 안의 파일을 사용한다.</li>
+<li>serve 한번만 실행시킬 웹서버 실행</li>
+</ul>
+<pre><code>npx serve -s build
+</code></pre></li>
+<li>
+<p>Component 생성</p>
+</li>
+</ol>
+<pre><code>class Subject extends Component {
+  render(){
+    return(
+      &lt;header&gt;
+        &lt;h1&gt;WEB&lt;/h1&gt;
+        world wide web!
+      &lt;/header&gt;
+    );
+  }
+}
+
+class App extends Component {
+  render() {
+    return (
+      &lt;div className=&quot;App&quot;&gt;
+        &lt;Subject&gt;&lt;/Subject&gt;
+      &lt;/div&gt;
+    );
+  }
+}
+</code></pre><pre><code>- Subject라는 Class를 만든다.
+- Class 안에서 function 단어 생략
+- JS 문법과 다른 JXS
+- Component는 정리정돈의 개념으로 복잡도를 낮춤
+</code></pre>
+<pre><code>class Subject extends Component {
+  render(){
+    return(
+      &lt;header&gt;
+        &lt;h1&gt;{this.props.title}&lt;/h1&gt;
+        {this.props.sub}
+      &lt;/header&gt;
+    );
+    
+  }
+}
+class App extends Component {
+  render() {
+    return (
+      &lt;div className=&quot;App&quot;&gt;
+        &lt;Subject title='WEB' sub=&quot;world wide web!&quot;&gt;&lt;/Subject&gt;
+        &lt;TOC&gt;&lt;/TOC&gt;
+        &lt;Content&gt;&lt;/Content&gt;
+      &lt;/div&gt;
+    );
+  }
+}
+</code></pre><pre><code>- props 이용하여 사용자 정의 태그
+</code></pre>
+<ol start="6">
+<li>
+<p>크롬 확장 프로그램</p>
+<ul>
+<li>React Developer Tools을 이용하여 브라우저에서 리액트로 상태 확인 가능</li>
+</ul>
+</li>
+<li>
+<p>Component 파일로 분리하기</p>
+</li>
+</ol>
+<pre><code>import React, { Component } from 'react';
+
+class TOC extends Component {
+    render(){
+      return (
+        &lt;nav&gt;
+              &lt;ul&gt;
+                  &lt;li&gt;&lt;a href=&quot;1.html&quot;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+                  &lt;li&gt;&lt;a href=&quot;2.html&quot;&gt;CSS&lt;/a&gt;&lt;/li&gt;
+                  &lt;li&gt;&lt;a href=&quot;3.html&quot;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+        &lt;/nav&gt;
+      );
+    }
+  }
+export default TOC;
+</code></pre><pre><code>- 새 파일에 Component를 복사하고 Import하고 다른 파일에서 사용할 수 있게 export 구문을 작성한다.
+</code></pre>
+<pre><code>import TOC from &quot;./components/TOC&quot;;
+</code></pre><pre><code>- 분리된 Component를 사용할 파일에서 import한다.
+</code></pre>
+<ol start="8">
+<li>state</li>
+</ol>
+<ul>
+<li>React에서 Component를 외부에서 조작할 떄는 props를, 내부적으로 상태를 관리할 때는 state를 사용한다.</li>
+<li>props are read-only, state can be modified</li>
+</ul>
+<pre><code>constructor(props){
+  super(props);
+}
+</code></pre><ul>
+<li>Component를 실행할 때 Props를 초기화 시켜주는 코드</li>
+</ul>
+<pre><code>this.state = {
+    subject:{title:'WEB', sub:'World Wide Web!'}
+  }
+</code></pre><ul>
+<li>state에 초기값 지정</li>
+</ul>
+<pre><code>&lt;Subject 
+title={this.state.subject.title} 
+sub={this.state.subject.sub}&gt;
+&lt;/Subject&gt;
+</code></pre><ul>
+<li>title과 sub를 state에서 가져온다.</li>
+<li>내부적으로 사용하고 외부에 노출하지 않으므로 사용성을 높인다.</li>
+<li>반복문일때 key 값을 지정해주지 않으면 에러 발생</li>
+</ul>
+<ol start="9">
+<li>event</li>
+</ol>
+<ul>
+<li>code에 debugger를 넣으면 브라우저에서 그부분에서 실행이 멈춘다.</li>
+</ul>
+<pre><code>function(e){
+  e.preventDefault();
+}
+</code></pre><ul>
+<li>event들의 기본적인 동작 방법을 못하게 할때는 preventDefault()를 사용한다.</li>
+</ul>
+<pre><code>&lt;h1&gt;&lt;a href=&quot;/&quot; onClick={function(e){
+  console.log(e);
+  e.preventDefault();
+  //this.state.mode = 'welcome';
+  this.setState({
+    mode:'welcome'
+  });
+}.bind(this)}&gt;{this.state.subject.title}&lt;/a&gt;&lt;/h1&gt;
+</code></pre><ul>
+<li>함수안에서 this를 사용하면 에러가 뜨므로 .bind(this)를 넣어준다.</li>
+</ul>
+<pre><code>functionA.bind(B)
+</code></pre><ul>
+<li>bind는 어떤 함수(functionA)내에서 this의 값(B)을 지정해준다.</li>
+<li>state 변경은 this.setState로 한다.</li>
+<li>component에서 state가 정해져 있으므로 함수의 형태로 바꿔줘야한다.</li>
+</ul>
+<ol start="10">
+<li>Create</li>
+</ol>
+<pre><code>&lt;form action=&quot;/create_process&quot; method=&quot;post&quot;
+  onSubmit={function(e){
+    e.preventDefault();
+  }.bind(this)}
+&gt;
+</code></pre><pre><code>- form tag에 onSubmit을 이용
+</code></pre>
+<pre><code>//this.state.contents.push(
+//  {id:this.max_content_id, title:_title, desc:_desc});
+var _contents = this.state.contents.concat(
+  {id:this.max_content_id, title:_title, desc:_desc}
+)
+this.setState({
+  contents:_contents
+</code></pre><ul>
+<li>push는 원본 배열을 변경하는것이고 concat은 다른 변수에 원본에 추가한 배열로 설정하므로 원본은 변하지 않는다.</li>
+</ul>
+<pre><code>shouldComponentUpdate(newProps, newState){
+    console.log('==&gt;TOC render shouldComponentUpdate'
+    ,newProps.data
+    ,this.props.data
+    );
+    if(this.props.data === newProps.data){
+      return false;
+    }
+    return true;
+  }
+</code></pre><ul>
+<li>render함수 이전에 shouldComponentUpdate가 실행된다.</li>
+<li>return값이 True면 render함수가 실행되고, False면 render가 실행되지 않는다.</li>
+<li>concat을 쓰지 않고 push를 사용했다면 원본값이 바뀌어서 성능을 향상하기 어렵다.</li>
+</ul>
+<pre><code>var a = [1,2];
+var b = Array.from(a);
+b.push(3);
+</code></pre><ul>
+<li>array에서 Array.from을 쓰면 복제가 된다.</li>
+</ul>
+<pre><code>var a = {name:'egoing'};
+var b = Object.assign({},a);
+</code></pre><ul>
+<li>객체에서는 Object.assign을 사용하면 복제가 된다.</li>
+<li>immutable</li>
+</ul>
+<ol start="11">
+<li>Update</li>
+</ol>
+<pre><code>constructor(props){
+  super(props);
+  this.state = {
+    title:this.props.data.title
+  }
+}
+</code></pre><ul>
+<li>함수내에서 props를 불러오면 readonly롤 수정이 안된다. 이를 리액트에서 변수에 props를 지정하면 경고가 뜨게 해놓았다.</li>
+<li>그러므로 state화 함.</li>
+</ul>
+<pre><code>type=&quot;text&quot; 
+name=&quot;title&quot; 
+placeholder='title'
+value={this.state.title}
+onChange={function(e){
+  this.setState({title:e.target.value});
+}.bind(this)}
+</code></pre><ul>
+<li>onChange를 사용하여 readonly를 해제한다.</li>
+<li>해당값은 value로 지정한다.</li>
+</ul>
+<pre><code>inputFOrmHandler(e){
+  this.setState({[e.target.name]:e.target.value});
+}
+</code></pre><pre><code>onChange={this.inputFormHandler.bind(this)}
+</code></pre><ul>
+<li>inputFormHandler 함수로 반복되는 부분 제거</li>
+<li>e.target.name을 써서 title과 desc를 대응하도록 한다.</li>
+</ul>
+<pre><code>this.inputFormHandler = this.inputFormHandler.bind(this);
+</code></pre><ul>
+<li>constructor안에 상기문을 입력하면 bind(this)를 매번 입력하지 않아도 된다.</li>
+</ul>
+<ol start="12">
+<li>Delete</li>
+</ol>
+<pre><code>if(_mode === 'delete'){
+  if(window.confirm('really?')){
+    var _contents = Array.from(this.state.contents);
+    var i = 0;
+    while(i &lt; this.state.contents.length){
+      if(_contents[i].id === this.state.selected_content_id){
+        _contents.splice(i,1);
+        break;
+      }
+      i = i +1;
+    }
+    this.setState({
+      mode:'welcome',
+      contents:_contents
+    })
+  }
+}
+</code></pre><ul>
+<li>confirm창은 window.confirm사용</li>
+<li>delete는 splice(시작, 갯수)지정으로 삭제한다.</li>
+</ul>
+<ol start="13">
+<li>ps</li>
+</ol>
+<ul>
+<li>immutable.js</li>
+<li>react router : react는 하나의 url로 모든 페이지를 만듦. url에따라서 적당한 component가 실행되게 만든다.</li>
+<li>npm run eject : create-react-app의 여러 설정을 수정 가능</li>
+<li>redux : 중앙에 저장소가 있고 component가 연결된다.</li>
+<li>react native : react와 같은 방법으로 native 앱을 만들수 있다.</li>
+</ul>
+</article><section class="article labels"><a class="category" href=/categories/2nd-deck/>2nd Deck</a></section></div>
+<div class="article bottom"><section class="article navigation"><p><a class="link" href="/post/2020-08-24-running/"><span class="iconfont icon-article"></span>20200824 Running</a></p><p><a class="link" href="/post/2020-08-17-running/"><span class="iconfont icon-article"></span>20200817 Running</a></p></section></div></section><section id="footer"><div class="footer-wrap">
+    <p class="copyright">©2020 2nd Deck</p>
+    </div></section></body>
+
+</html>

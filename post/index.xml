@@ -23,6 +23,16 @@
     </item>
     
     <item>
+      <title>React</title>
+      <link>/post/2020-08-19-react/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-19-react/</guid>
+      <description>생활코딩 React강의 개요 Component 작성으로 얻는 것 가독성 재사용성 유지보수 개발환경 nodejs 설치 cmd에서 npm -v 를 입력하여 설치확인 create-react-app 설치 cmd 상에서 (실습용) npm install -g</description>
+      
+    </item>
+    
+    <item>
       <title>20200817 Running</title>
       <link>/post/2020-08-17-running/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>

@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>/post/2020-08-24-running/</loc><lastmod>2020-08-24T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/2nd-deck/</loc><lastmod>2020-08-24T00:00:00+00:00</lastmod></url><url>
     <loc>/</loc><lastmod>2020-08-24T00:00:00+00:00</lastmod></url><url>
+    <loc>/categories/</loc><lastmod>2020-08-24T00:00:00+00:00</lastmod></url><url>
     <loc>/post/</loc><lastmod>2020-08-24T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/2020-08-19-react/</loc><lastmod>2020-08-24T00:00:00+00:00</lastmod></url><url>
     <loc>/post/2020-08-17-running/</loc><lastmod>2020-08-17T00:00:00+00:00</lastmod></url><url>
     <loc>/post/2020-08-16-book-network/</loc><lastmod>2020-08-16T00:00:00+00:00</lastmod></url><url>
-    <loc>/categories/</loc><lastmod>2020-08-16T00:00:00+00:00</lastmod></url><url>
     <loc>/categories/no.1-hold/</loc><lastmod>2020-08-16T00:00:00+00:00</lastmod></url><url>
     <loc>/post/2020-08-14-running/</loc><lastmod>2020-08-14T00:00:00+00:00</lastmod></url><url>
     <loc>/post/2020-08-14-book-deeplearning/</loc><lastmod>2020-08-14T00:00:00+00:00</lastmod></url><url>
@@ -14,8 +16,6 @@
     <loc>/post/2020-08-03-running/</loc><lastmod>2020-08-03T00:00:00+00:00</lastmod></url><url>
     <loc>/post/2020-07-30-book-decoupling/</loc><lastmod>2020-07-30T00:00:00+00:00</lastmod></url><url>
     <loc>/post/2020-07-29-running/</loc><lastmod>2020-07-29T00:00:00+00:00</lastmod></url><url>
-    <loc>/categories/2nd-deck/</loc><lastmod>2020-07-27T00:00:00+00:00</lastmod></url><url>
-    <loc>/2020-07-27-alpabeta/</loc><lastmod>2020-07-27T00:00:00+00:00</lastmod></url><url>
     <loc>/post/2020-07-24-running/</loc><lastmod>2020-07-24T00:00:00+00:00</lastmod></url><url>
     <loc>/post/2020-07-20-running/</loc><lastmod>2020-07-20T00:00:00+00:00</lastmod></url><url>
     <loc>/post/2020-07-14-running/</loc><lastmod>2020-07-14T00:00:00+00:00</lastmod></url><url>
