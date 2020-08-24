@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20200824 Running</title>
+      <link>/post/2020-08-24-running/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-24-running/</guid>
+      <description>4.97km Running NRC 추가 동네 한바퀴 맑음, 26도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200817 Running</title>
+      <link>/post/2020-08-17-running/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-17-running/</guid>
+      <description>4.86km Running NRC 추가 동네 한바퀴 맑음, 27도 ..</description>
+      
+    </item>
     
     <item>
       <title>Book - 그림으로 배우는 네트워크 원리 / Gene</title>
@@ -24,10 +44,10 @@
     
     <item>
       <title>20200814 Running</title>
-      <link>/post/2020-08-10-running-copy/</link>
+      <link>/post/2020-08-14-running/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-08-10-running-copy/</guid>
+      <guid>/post/2020-08-14-running/</guid>
       <description>4.95km Running NRC 추가 동네 한바퀴 흐림, 28도 ..</description>
       
     </item>
