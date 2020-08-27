@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/no.1-hold/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book - 이상한 수학책 / 벤 올린</title>
+      <link>/post/2020-08-27-book-math/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-27-book-math/</guid>
+      <description>이상한 수학책 - 벤 올린 기본정보 북라이프 2020 옮긴이 김성훈 감상 순전히 이름만 보고 궁금했던 책이다. 책 이름이 &amp;lsquo;이상한 수학책&amp;rsquo;이고 원</description>
+      
+    </item>
     
     <item>
       <title>Book - 그림으로 배우는 네트워크 원리 / Gene</title>
