@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/2nd-deck/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>React</title>
+      <link>/post/2020-09-07-javascript/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-07-javascript/</guid>
+      <description>생활코딩 Javascript 강의 Javascript 기본 object(객체) function(함수) Parameter(매개변수) Argument(인자) object 문법 var coworkers = { &amp;quot;programmer&amp;quot;:&amp;quot;egoing&amp;quot;, &amp;quot;designer&amp;quot;:&amp;quot;leezche&amp;quot; }; document.write(&amp;quot;programmer</description>
+      
+    </item>
     
     <item>
       <title>React</title>

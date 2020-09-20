@@ -7,10 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20200920 Running</title>
+      <link>/post/2020-09-20-running/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-20-running/</guid>
+      <description>4.69km Running NRC 추가 동네 한바퀴 맑음, 20도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>Book - 아이디어 불패의 법칙 / 알베르토 사보이아</title>
+      <link>/post/2020-09-20-book-idea/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-20-book-idea/</guid>
+      <description>아이디어 불패의 법칙 - 알베르토 사보이아 기본정보 인플루엔셜 2020 옮긴이 이지연 감상 사람들은 실행하지 않는 아이디어는 무의미하다고 말한다. 하지만 이 책에서는 수</description>
+      
+    </item>
+    
+    <item>
+      <title>20200915 Running</title>
+      <link>/post/2020-09-15-running/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-15-running/</guid>
+      <description>4.98km Running NRC 추가 동네 한바퀴 맑음, 22도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200912 Running</title>
+      <link>/post/2020-09-12-running/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-12-running/</guid>
+      <description>4.99km Running NRC 추가 동네 한바퀴 흐림, 20도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200908 Running</title>
+      <link>/post/2020-09-08-running/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-08-running/</guid>
+      <description>4.91km Running NRC 추가 동네 한바퀴 맑음, 24도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>/post/2020-09-07-javascript/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-07-javascript/</guid>
+      <description>생활코딩 Javascript 강의 Javascript 기본 object(객체) function(함수) Parameter(매개변수) Argument(인자) object 문법 var coworkers = { &amp;quot;programmer&amp;quot;:&amp;quot;egoing&amp;quot;, &amp;quot;designer&amp;quot;:&amp;quot;leezche&amp;quot; }; document.write(&amp;quot;programmer</description>
+      
+    </item>
+    
+    <item>
+      <title>20200906 Running</title>
+      <link>/post/2020-09-06-running/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-06-running/</guid>
+      <description>5.14km Running NRC 추가 동네 한바퀴 비, 22도 ..</description>
+      
+    </item>
     
     <item>
       <title>20200903 Running</title>
