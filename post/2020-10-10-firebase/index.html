@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.73.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>Firebase&nbsp;&ndash;&nbsp;2nd-deck Blog</title><link rel="stylesheet" href="/css/core.min.d77b86bdf15df3a7758411eab78a6c8622985e136239b6eb8307e92b8826b6d95dd433b7f3925f128e4747ec1b366b99.css" integrity="sha384-13uGvfFd86d1hBHqt4pshiKYXhNiObbrgwfpK4gmttld1DO385JfEo5HR&#43;wbNmuZ"><meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Firebase" /><body><section id="header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">2nd-deck Blog</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/categories/">Categories</a><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a><a class="nav item" href="https://smartstore%2enaver%2ecom/muubox"target="_blank">Moony Box</a></nav></div></span></div><div class="site slogan"><span class="title">Keep Looking and Don't Settle.</span></div></section><section id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">Firebase</h1><p class="article date">Saturday, October 10, 2020</p></section><article class="article markdown-body"><p>Firebase 사용법</p>
+<h2 id="사용법">사용법</h2>
+<h3 id="설치-및-세팅">설치 및 세팅</h3>
+<ol>
+<li>프로젝트 생성</li>
+</ol>
+<ul>
+<li>firebase에 프로젝트 생성</li>
+<li>앱 추가</li>
+<li>local에 firebase 추가</li>
+</ul>
+<pre><code>npm install --save firebase
+</code></pre><ul>
+<li>firebase 구성 객체 입력</li>
+</ul>
+<pre><code>import * as firebase from &quot;firebase/app&quot;;
+
+const firebaseConfig = {
+  apiKey: &quot;api-key&quot;,
+  authDomain: &quot;project-id.firebaseapp.com&quot;,
+  databaseURL: &quot;https://project-id.firebaseio.com&quot;,
+  projectId: &quot;project-id&quot;,
+  storageBucket: &quot;project-id.appspot.com&quot;,
+  messagingSenderId: &quot;sender-id&quot;,
+  appID: &quot;app-id&quot;,
+};
+
+firebase.initializeApp(firebaseConfig);
+
+export const firebaseInstance = firebase;
+</code></pre><pre><code>+ create-react-app으로 만들어 환경변수를 사용하려면 REACT_APP_'환경변수'
++ git ignore에 .env를 추가해서 github에 추가되는것을 막는다. 빌드하면 결국은 변환되어 값이 나타나므로 보안사항은 아니고
+</code></pre>
+<h3 id="cloud-firestore">Cloud Firestore</h3>
+<ol>
+<li>새로운 데이터 베이스 만들기</li>
+</ol>
+<ul>
+<li>테스트 모드에서 시작</li>
+<li>지역 설정(Asia.NorthEast)</li>
+<li>사용 설치</li>
+</ul>
+<ol start="2">
+<li>fbase에 firestore/firestore import하기</li>
+<li>Collect</li>
+</ol>
+<ul>
+<li>collect은 document의 그룹이다.</li>
+</ul>
+<ol start="4">
+<li>Data 추가</li>
+</ol>
+<pre><code>const onSubmit = async (event) =&gt; {
+    event.preventDefault();
+    await dbService.collection(&quot;nweets&quot;).add({
+      nweet: nweet,
+      createdAt: Date.now(),
+    });
+    setNweet(&quot;&quot;);
+  };
+</code></pre><p>-nweets라는 collection에 document가 저장
+5. Data 불러오기</p>
+<pre><code>const getNweets = async () =&gt; {
+    const dbNweets = await dbService.collection(&quot;nweets&quot;).get();
+    dbNweets.forEach((document) =&gt; {
+      const nweetObject = {
+        ...document.data(),
+        id: document.id,
+      };
+      setNweets((prev) =&gt; [nweetObject, ...prev]);
+    });
+  };
+  useEffect(() =&gt; {
+    getNweets();
+  }, []);
+</code></pre><ul>
+<li>get하면 QuerySnapshot이라는것을 불러온다.</li>
+<li>그중에 data를 가져옴.</li>
+</ul>
+<ol start="6">
+<li>실시간</li>
+</ol>
+<pre><code>useEffect(() =&gt; {
+    // getNweets();
+    //실시간 업데이트 반영
+    dbService.collection(&quot;nweets&quot;).onSnapshot((snapshot) =&gt; {
+      const nweetArray = snapshot.docs.map((doc) =&gt; ({
+        id: doc.id,
+        ...doc.data(),
+      }));
+      setNweets(nweetArray);
+    });
+  }, []);
+</code></pre><ul>
+<li>listener로 snapshot을 사용</li>
+<li>onSnapshot : database의 변화를 실시간으로 알려준다.</li>
+<li>앞의 forEach 사용 없이 실시간으로 구성 가능</li>
+</ul>
+<ol start="7">
+<li>deploy</li>
+</ol>
+<pre><code>npm i gh-pages
+</code></pre><ul>
+<li>gh-pages 설치</li>
+</ul>
+<pre><code> &quot;predeploy&quot;: &quot;npm run build&quot;,
+  &quot;deploy&quot;: &quot;gh-pages -d build&quot;
+
+  ...
+  &quot;hompage&quot;: &quot; https://2nd-deck.github.io/nwitter&quot;
+</code></pre><ul>
+<li>pachage.json에 추가</li>
+</ul>
+<pre><code>npm run deploy
+</code></pre><ul>
+<li>deploy 실행</li>
+</ul>
+<ol start="8">
+<li>security</li>
+</ol>
+<ul>
+<li>firebase-Authentication- Sign-in method - 승인된 도메인- 현재 사용중인 도메인 추가</li>
+</ul>
+<pre><code>rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write: if request.auth != null;
+         
+    }
+  }
+}
+</code></pre><ul>
+<li>firestore-규칙- 로그인한 사람만 수정가능하게 변경</li>
+<li><a href="https://console.developers.google.com/apis/credentials">https://console.developers.google.com/apis/credentials</a>에 접속
+<ul>
+<li>project 선택</li>
+<li>browser key</li>
+<li>애플리케이션 제한사항에 HTTP 리퍼러 선택</li>
+<li>웹사이트 제한사항- 항목추가- 사용중인 웹사이트와 localhost 그리고 firebase 도메인 추가</li>
+<li>firebase 도메인은 Authentication- Sign-in method - 승인된 도메인에 있음</li>
+<li>추가한 도메인에서의 요청만 수락</li>
+<li>web client key도 동일하게</li>
+</ul>
+</li>
+</ul>
+<ol start="9">
+<li>firebase Function을 이용해서 NoSQL 데이터 베이스에서 할수 없는 부분을 할 수 있다.</li>
+</ol>
+</article><section class="article labels"><a class="category" href=/categories/2nd-deck/>2nd Deck</a></section></div>
+<div class="article bottom"><section class="article navigation"><p><a class="link" href="/post/2020-10-11-book-system/"><span class="iconfont icon-article"></span>Book - THE SYSTEM / 스콧 애덤스</a></p><p><a class="link" href="/post/2020-10-30-book-react/"><span class="iconfont icon-article"></span>Book - 실전 리액트 프로그래밍 / 이재승</a></p></section></div></section><section id="footer"><div class="footer-wrap">
+    <p class="copyright">©2020 2nd Deck</p>
+    </div></section></body>
+
+</html>

@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/no.1-hold/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book - THE SYSTEM / 스콧 애덤스</title>
+      <link>/post/2020-10-11-book-system/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-11-book-system/</guid>
+      <description>THE SYSTEM - 스콧 애덤스 기본정보 베리북 2020 옮긴이 김인수 감상 어떤 책에서는 &amp;lsquo;해빗&amp;rsquo;, 다른 책에서는 &amp;lsquo;루틴&amp;rsquo; 그</description>
+      
+    </item>
+    
+    <item>
+      <title>Book - 실전 리액트 프로그래밍 / 이재승</title>
+      <link>/post/2020-10-30-book-react/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-30-book-react/</guid>
+      <description>실전 리액트 프로그래밍 - 이재승 기본정보 프로그래밍 인사이트 2019 감상 자바스크립트 경험이 거의 없고 생활코딩의 리액트 강좌만 들은 상태에서, 이책은 잘못된 선택이</description>
+      
+    </item>
     
     <item>
       <title>Book - 아이디어 불패의 법칙 / 알베르토 사보이아</title>

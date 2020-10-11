@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book - THE SYSTEM / 스콧 애덤스</title>
+      <link>/post/2020-10-11-book-system/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-11-book-system/</guid>
+      <description>THE SYSTEM - 스콧 애덤스 기본정보 베리북 2020 옮긴이 김인수 감상 어떤 책에서는 &amp;lsquo;해빗&amp;rsquo;, 다른 책에서는 &amp;lsquo;루틴&amp;rsquo; 그</description>
+      
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>/post/2020-10-10-firebase/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-10-firebase/</guid>
+      <description>Firebase 사용법 사용법 설치 및 세팅 프로젝트 생성 firebase에 프로젝트 생성 앱 추가 local에 firebase 추가 npm install --save firebase firebase 구성 객체 입력 import * as firebase from &amp;quot;firebase/app&amp;quot;; const firebaseConfig = { apiKey: &amp;quot;api-key&amp;quot;, authDomain: &amp;quot;project-id.firebaseapp.com&amp;quot;,</description>
+      
+    </item>
+    
+    <item>
+      <title>Book - 실전 리액트 프로그래밍 / 이재승</title>
+      <link>/post/2020-10-30-book-react/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-30-book-react/</guid>
+      <description>실전 리액트 프로그래밍 - 이재승 기본정보 프로그래밍 인사이트 2019 감상 자바스크립트 경험이 거의 없고 생활코딩의 리액트 강좌만 들은 상태에서, 이책은 잘못된 선택이</description>
+      
+    </item>
+    
+    <item>
+      <title>React Native</title>
+      <link>/post/2020-12-30-reactnative/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-12-30-reactnative/</guid>
+      <description>노마드코더 React Native로 날씨앱 만들기 강의 내용 기타 react native는 마지막 컴파일링 할 때, 각각 IOS(objective-c)/android(java) 네이티브 코드로 실행이 됨. expo는 xcode, android studio 사용 없이</description>
+      
+    </item>
     
     <item>
       <title>20200920 Running</title>
@@ -64,10 +104,10 @@
     
     <item>
       <title>React</title>
-      <link>/post/2020-09-07-javascript/</link>
+      <link>/post/2021-09-07-javascript/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-09-07-javascript/</guid>
+      <guid>/post/2021-09-07-javascript/</guid>
       <description>생활코딩 Javascript 강의 Javascript 기본 object(객체) function(함수) Parameter(매개변수) Argument(인자) object 문법 var coworkers = { &amp;quot;programmer&amp;quot;:&amp;quot;egoing&amp;quot;, &amp;quot;designer&amp;quot;:&amp;quot;leezche&amp;quot; }; document.write(&amp;quot;programmer</description>
       
     </item>
