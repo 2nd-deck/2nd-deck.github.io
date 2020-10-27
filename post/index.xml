@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book - 모든 글쓰기 / 한호택</title>
+      <link>/post/2020-10-27-book-writing/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-27-book-writing/</guid>
+      <description>모든 글쓰기 - 한호택 기본정보 북펀딩 2020 감상 논리 연역법: 알고 있는 진리에서 출발해 결론을 끌어내는 방법 연역법의 출발점인 대전제는 우리가 진리라고 믿는 사실 또는</description>
+      
+    </item>
+    
+    <item>
+      <title>Book - 더 해빙 / 이서윤, 홍주연</title>
+      <link>/post/2020-10-25-book-having/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-25-book-having/</guid>
+      <description>더 해빙 - 이서윤, 홍주연 기본정보 수오서재 2020 감상 부와 행운을 부르는 방법에 대한 책인가, 누군가를 신격화 하고 가치를 드높이기 위한 책인가.</description>
+      
+    </item>
+    
+    <item>
+      <title>Book - 한번에 10권 플랫폼 독서법 / 김병완</title>
+      <link>/post/2020-10-23-book-platform/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-23-book-platform/</guid>
+      <description>한번에 10권 플랫폼 독서법 - 김병완 기본정보 청림출판 2020 감상 이 책의 대부분의 페이지는 플랫폼 독서법의 중요성에 대해 얘기한다. 팔기 위해 만들어진 책의 느낌.</description>
+      
+    </item>
     
     <item>
       <title>Book - THE SYSTEM / 스콧 애덤스</title>
@@ -34,31 +64,11 @@
     
     <item>
       <title>Book - 실전 리액트 프로그래밍 / 이재승</title>
-      <link>/post/2020-10-30-book-react/</link>
+      <link>/post/2020-09-30-book-react/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-10-30-book-react/</guid>
-      <description>실전 리액트 프로그래밍 - 이재승 기본정보 프로그래밍 인사이트 2019 감상 자바스크립트 경험이 거의 없고 생활코딩의 리액트 강좌만 들은 상태에서, 이책은 잘못된 선택이</description>
-      
-    </item>
-    
-    <item>
-      <title>React Native</title>
-      <link>/post/2020-12-30-reactnative/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-12-30-reactnative/</guid>
-      <description>노마드코더 React Native로 날씨앱 만들기 강의 내용 기타 react native는 마지막 컴파일링 할 때, 각각 IOS(objective-c)/android(java) 네이티브 코드로 실행이 됨. expo는 xcode, android studio 사용 없이</description>
-      
-    </item>
-    
-    <item>
-      <title>20200920 Running</title>
-      <link>/post/2020-09-20-running/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-09-20-running/</guid>
-      <description>4.69km Running NRC 추가 동네 한바퀴 맑음, 20도 ..</description>
+      <guid>/post/2020-09-30-book-react/</guid>
+      <description>실전 리액트 프로그래밍 - 이재승 기본정보 프로그래밍 인사이트 2019 감상 입문자를 위한 책이 아니라, 기능에 대해 어느정도 이해한 사람이 찾아보는 용도 또는 관련 기능에</description>
       
     </item>
     
@@ -69,76 +79,6 @@
       
       <guid>/post/2020-09-20-book-idea/</guid>
       <description>아이디어 불패의 법칙 - 알베르토 사보이아 기본정보 인플루엔셜 2020 옮긴이 이지연 감상 사람들은 실행하지 않는 아이디어는 무의미하다고 말한다. 하지만 이 책에서는 수</description>
-      
-    </item>
-    
-    <item>
-      <title>20200915 Running</title>
-      <link>/post/2020-09-15-running/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-09-15-running/</guid>
-      <description>4.98km Running NRC 추가 동네 한바퀴 맑음, 22도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200912 Running</title>
-      <link>/post/2020-09-12-running/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-09-12-running/</guid>
-      <description>4.99km Running NRC 추가 동네 한바퀴 흐림, 20도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200908 Running</title>
-      <link>/post/2020-09-08-running/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-09-08-running/</guid>
-      <description>4.91km Running NRC 추가 동네 한바퀴 맑음, 24도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>/post/2021-09-07-javascript/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-09-07-javascript/</guid>
-      <description>생활코딩 Javascript 강의 Javascript 기본 object(객체) function(함수) Parameter(매개변수) Argument(인자) object 문법 var coworkers = { &amp;quot;programmer&amp;quot;:&amp;quot;egoing&amp;quot;, &amp;quot;designer&amp;quot;:&amp;quot;leezche&amp;quot; }; document.write(&amp;quot;programmer</description>
-      
-    </item>
-    
-    <item>
-      <title>20200906 Running</title>
-      <link>/post/2020-09-06-running/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-09-06-running/</guid>
-      <description>5.14km Running NRC 추가 동네 한바퀴 비, 22도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200903 Running</title>
-      <link>/post/2020-09-03-running/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-09-03-running/</guid>
-      <description>4.91km Running NRC 추가 동네 한바퀴 맑음, 24도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200830 Running</title>
-      <link>/post/2020-08-30-running/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-08-30-running/</guid>
-      <description>4.42km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
       
     </item>
     
@@ -163,32 +103,12 @@
     </item>
     
     <item>
-      <title>20200824 Running</title>
-      <link>/post/2020-08-24-running/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-08-24-running/</guid>
-      <description>4.97km Running NRC 추가 동네 한바퀴 맑음, 26도 ..</description>
-      
-    </item>
-    
-    <item>
       <title>React</title>
       <link>/post/2020-08-19-react/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020-08-19-react/</guid>
       <description>생활코딩 React강의 개요 Component 작성으로 얻는 것 가독성 재사용성 유지보수 개발환경 nodejs 설치 cmd에서 npm -v 를 입력하여 설치확인 create-react-app 설치 cmd 상에서 (실습용) npm install -g</description>
-      
-    </item>
-    
-    <item>
-      <title>20200817 Running</title>
-      <link>/post/2020-08-17-running/</link>
-      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-08-17-running/</guid>
-      <description>4.86km Running NRC 추가 동네 한바퀴 맑음, 27도 ..</description>
       
     </item>
     
@@ -203,16 +123,6 @@
     </item>
     
     <item>
-      <title>20200814 Running</title>
-      <link>/post/2020-08-14-running/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-08-14-running/</guid>
-      <description>4.95km Running NRC 추가 동네 한바퀴 흐림, 28도 ..</description>
-      
-    </item>
-    
-    <item>
       <title>Book - 딥러닝 입문 / 박해선</title>
       <link>/post/2020-08-14-book-deeplearning/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
@@ -223,92 +133,12 @@
     </item>
     
     <item>
-      <title>20200810 Running</title>
-      <link>/post/2020-08-10-running/</link>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-08-10-running/</guid>
-      <description>5.01km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200806 Running</title>
-      <link>/post/2020-08-06-running/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-08-06-running/</guid>
-      <description>4.84km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200803 Running</title>
-      <link>/post/2020-08-03-running/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-08-03-running/</guid>
-      <description>5.06km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
-      
-    </item>
-    
-    <item>
       <title>Book - 디커플링 / 탈레스 S.테세이라</title>
       <link>/post/2020-07-30-book-decoupling/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020-07-30-book-decoupling/</guid>
       <description>디커플링 - 탈레스 S.테세이라 기본정보 인플루엔셜 2019 김인수 옮김 감상 넷플릭스, 우버, 에어비엔비등 한순간에 시장을 점령한 신흥 기업들을 디커플링이라는 단어</description>
-      
-    </item>
-    
-    <item>
-      <title>20200729 Running</title>
-      <link>/post/2020-07-29-running/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-29-running/</guid>
-      <description>4.96km Running NRC 추가 동네 한바퀴 흐림, 24도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200724 Running</title>
-      <link>/post/2020-07-24-running/</link>
-      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-24-running/</guid>
-      <description>4.92km Running NRC 추가 동네 한바퀴 흐림, 22도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200720 Running</title>
-      <link>/post/2020-07-20-running/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-20-running/</guid>
-      <description>4.57km Running NRC 추가 동네 한바퀴 못뜀 흐림, 26도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200714 Running</title>
-      <link>/post/2020-07-14-running/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-14-running/</guid>
-      <description>5.03km Running NRC 추가 동네 한바퀴 흐림, 20도 ..</description>
-      
-    </item>
-    
-    <item>
-      <title>20200708 Running</title>
-      <link>/post/2020-07-08-running/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-08-running/</guid>
-      <description>4.89km Running NRC 추가 동네 한바퀴 안개, 23도 ..</description>
       
     </item>
     
@@ -333,32 +163,12 @@
     </item>
     
     <item>
-      <title>20200703 Running</title>
-      <link>/post/2020-07-03-running/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-03-running/</guid>
-      <description>4.99km Running NRC 추가 동네 한바퀴 맑음, 20도 .. 습관의 영역에 들어간 듯</description>
-      
-    </item>
-    
-    <item>
       <title>Book - 깃&amp;깃허브 입문 / 고경희</title>
       <link>/post/2020-07-03-book-git/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020-07-03-book-git/</guid>
       <description>깃&amp;amp;깃허브 입문 - 고경희 기본정보 이지스 퍼블리싱 2019 감상 무료코딩 강좌의 성지 **생활코딩(이고잉)**에서 책이 나온다면 아는 사람은 누구나 한번쯤</description>
-      
-    </item>
-    
-    <item>
-      <title>20200701 Running</title>
-      <link>/post/2020-07-01-running/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-07-01-running/</guid>
-      <description>4.92km Running NRC 추가 동네 한바퀴 맑음, 21도 .. 출발 지점을 변경하니 전체 거리가 대략 비슷하게 나온다.</description>
       
     </item>
     
@@ -373,32 +183,12 @@
     </item>
     
     <item>
-      <title>20200626 Running</title>
-      <link>/post/2020-06-26-running/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-06-26-running/</guid>
-      <description>4.96km Running NRC 추가 동네 한바퀴 맑음, 24도 .. 매번 같은 거리를 달리지만 NRC에 측정되는 거리는 들쑥날쑥이다. 앱의 문제인지 아이폰GPS의 문제인지 알 수 없으나 약 5</description>
-      
-    </item>
-    
-    <item>
       <title>서핑과 밴드의 연관성</title>
       <link>/post/2020-06-26-surfing/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020-06-26-surfing/</guid>
       <description>그냥 잡설 둘의 연관 관계가 있을까 내 주변 가까이에 서핑을 꾸준히 하는 사람이 몇 있다. 중간에 꽤 오래 쉬긴 하지만.(이제 중년의 나이에, 가정이 있으면서도 가끔이라</description>
-      
-    </item>
-    
-    <item>
-      <title>20200622 Running</title>
-      <link>/post/2020-06-22-running/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-06-22-running/</guid>
-      <description>5.03km Running 고찰 NRC 추가 동네 한바퀴 맑음, 22도 고찰 그날 컨디션이 기록에 미치는 영향을 보고자 이것저것 적어보았었다. 그러나 그것들과 무관하게 기록은 뒤쳐지고 시간이</description>
       
     </item>
     
@@ -413,62 +203,12 @@
     </item>
     
     <item>
-      <title>20200619 Running</title>
-      <link>/post/2020-06-19-running/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-06-19-running/</guid>
-      <description>5.18km Running NRC 추가 동네 한바퀴 맑음, 20도</description>
-      
-    </item>
-    
-    <item>
       <title>Book - 루틴의 힘 / 댄 애리얼리 외</title>
       <link>/post/2020-06-17-book-routin/</link>
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020-06-17-book-routin/</guid>
       <description>루틴의 힘 - 댄 애리얼리 외 기본정보 부키 2020 옮긴이 정지호 감상 각 분야에서 활발히 활동하고 있는 사람들의 삶의 방식을 엮은 책이다. 이런 류의 책을 몇권 읽다보니 새롭다</description>
-      
-    </item>
-    
-    <item>
-      <title>20200615 Running</title>
-      <link>/post/2020-06-15-running/</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-06-15-running/</guid>
-      <description>5.03km Running NRC 추가 동네 한바퀴 맑음, 25도 식후 60분후, full 더움 왼쪽 무릎 보호대 착용 기상 6시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200612 Running</title>
-      <link>/post/2020-06-12-running/</link>
-      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-06-12-running/</guid>
-      <description>5.3km Running NRC 추가 동네 한바퀴 가랑비, 23도 식후 60분후, full 더움 왼쪽 무릎 보호대 착용 기상 6시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200609 Running</title>
-      <link>/post/2020-06-09-running/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-06-09-running/</guid>
-      <description>5.18km Running NRC 추가 동네 한바퀴 맑음, 23도 식후 60분후, full 더움 왼쪽 무릎 보호대 착용 기상 6시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200604 Running</title>
-      <link>/post/2020-06-04-running/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-06-04-running/</guid>
-      <description>4.93km Running NRC 추가 동네 한바퀴 맑음, 25도 식후 60분후, full 더움 왼쪽 무릎 보호대 착용 기상 6시</description>
       
     </item>
     
@@ -483,102 +223,12 @@
     </item>
     
     <item>
-      <title>20200531 Running</title>
-      <link>/post/2020-05-31-running/</link>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-31-running/</guid>
-      <description>6.53km Running NRC 추가 동네 한바퀴(조금 모자람) 비온후 습함, 19도 식후 60분후, full 많이 습하여 힘듬 주말 외출로 힘든 상태 왼쪽 무릎 보호대 착용 기상 6시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200529 Running</title>
-      <link>/post/2020-05-29-running/</link>
-      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-29-running/</guid>
-      <description>6.53km Running NRC 추가 동네 한바퀴 맑음, 18도 식후 60분후, full 뛰자마자 힘듦 왼쪽 무릎 보호대 착용 GPS이상으로 기록이 심하게 이상하게 나옴 기상 6시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200524 Running</title>
-      <link>/post/2020-05-24-running/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-24-running/</guid>
-      <description>5.59km Running NRC 추가 동네 반바퀴 맑음, 22도 간식후 60분후, half 세차, 캠프닉등 피곤한 상태 출발하자마자 발이 무거움, 4키로에서 무너짐 왼쪽 무릎 보호대 착용 기상 6시</description>
-      
-    </item>
-    
-    <item>
       <title>Book - 개발자의 글쓰기 / 김철수</title>
       <link>/post/2020-05-23-book-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EA%B8%80%EC%93%B0%EA%B8%B0/</link>
       <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020-05-23-book-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EA%B8%80%EC%93%B0%EA%B8%B0/</guid>
       <description>개발자의 글쓰기 - 김철수 코딩을 하면서 고민스러웠던 변수 네이밍부터 프로그래머로서 작성해야하는 다양한 방면에서의 글쓰기에 대해 알기 쉽게 알려준다. 한번에 다</description>
-      
-    </item>
-    
-    <item>
-      <title>20200522 Running</title>
-      <link>/post/2020-05-22-running/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-22-running/</guid>
-      <description>5.77km Running NRC 추가 동네 한바퀴 맑음, 13도 식후 60분후, full 워밍업 0.8km 후 러닝 왼쪽 무릎 보호대 착용 기상 6시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200520 Running</title>
-      <link>/post/2020-05-20-running/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-20-running/</guid>
-      <description>6.20km Running NRC 추가 동네 한바퀴 맑음, 14도 식후 60분후, full 짧은 보폭으로 빠르게 시작함. 호흡 유지 오른쪽 무릎 보호대 착용 기상 6시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200518 Running</title>
-      <link>/post/2020-05-18-running/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-18-running/</guid>
-      <description>5.76km Running NRC 추가 동네 한바퀴 가랑비, 18도 식후 60분후, full 주말 노동으로 피곤 완주후 왼쪽 무릎 아픔 기상 6시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200512 Running</title>
-      <link>/post/2020-05-12-running/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-12-running/</guid>
-      <description>6.03km Running NRC 추가 동네 한바퀴 맑음, 18도 식후 60분후, full 초반 좋음. 4km부터 호흡조절 힘듦 기상 5시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200510 Running</title>
-      <link>/post/2020-05-10-running/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-10-running/</guid>
-      <description>5.4km Running NRC 추가 동네 한바퀴 맑음, 19도 식후 90분후, full 호흡조절 기상 7시</description>
-      
-    </item>
-    
-    <item>
-      <title>20200506 Running</title>
-      <link>/post/2020-05-06-running/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-06-running/</guid>
-      <description>5.85km Running NRC 추가 동네 한바퀴 맑음, 15도, 바람 식후 70분후, full 초반 호흡조절 어려움 기상 5시30분</description>
       
     </item>
     
@@ -599,16 +249,6 @@
       
       <guid>/post/2020-05-03-book-habbit/</guid>
       <description>HABBIT - 웬디 우드 기본정보 다산북스 2019 옮긴이 김윤재 주요내용 1부 습관 - 자동화된 무의식 생각하는 일은 전투에서 기병대의 돌격과도 같다. 숫자가 엄격히 제한되어 있고</description>
-      
-    </item>
-    
-    <item>
-      <title>20200502 Running</title>
-      <link>/post/2020-05-02-running/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-02-running/</guid>
-      <description>6km Running NRC 추가 동네 한바퀴 흐림, 19도 식후 50분후, full 3km 호흡조절 어려움 기상 9시</description>
       
     </item>
     

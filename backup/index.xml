@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Backups on 2nd-deck Blog</title>
+    <link>/backup/</link>
+    <description>Recent content in Backups on 2nd-deck Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-ko</language>
+    <copyright>©2020 2nd Deck</copyright>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/backup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>React Native</title>
+      <link>/backup/2020-12-30-reactnative/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-12-30-reactnative/</guid>
+      <description>노마드코더 React Native로 날씨앱 만들기 강의 내용 기타 react native는 마지막 컴파일링 할 때, 각각 IOS(objective-c)/android(java) 네이티브 코드로 실행이 됨. expo는 xcode, android studio 사용 없이</description>
+      
+    </item>
+    
+    <item>
+      <title>20200920 Running</title>
+      <link>/backup/2020-09-20-running/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-09-20-running/</guid>
+      <description>4.69km Running NRC 추가 동네 한바퀴 맑음, 20도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200915 Running</title>
+      <link>/backup/2020-09-15-running/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-09-15-running/</guid>
+      <description>4.98km Running NRC 추가 동네 한바퀴 맑음, 22도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200912 Running</title>
+      <link>/backup/2020-09-12-running/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-09-12-running/</guid>
+      <description>4.99km Running NRC 추가 동네 한바퀴 흐림, 20도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200908 Running</title>
+      <link>/backup/2020-09-08-running/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-09-08-running/</guid>
+      <description>4.91km Running NRC 추가 동네 한바퀴 맑음, 24도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200906 Running</title>
+      <link>/backup/2020-09-06-running/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-09-06-running/</guid>
+      <description>5.14km Running NRC 추가 동네 한바퀴 비, 22도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200903 Running</title>
+      <link>/backup/2020-09-03-running/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-09-03-running/</guid>
+      <description>4.91km Running NRC 추가 동네 한바퀴 맑음, 24도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200830 Running</title>
+      <link>/backup/2020-08-30-running/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-08-30-running/</guid>
+      <description>4.42km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200824 Running</title>
+      <link>/backup/2020-08-24-running/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-08-24-running/</guid>
+      <description>4.97km Running NRC 추가 동네 한바퀴 맑음, 26도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200817 Running</title>
+      <link>/backup/2020-08-17-running/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-08-17-running/</guid>
+      <description>4.86km Running NRC 추가 동네 한바퀴 맑음, 27도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200814 Running</title>
+      <link>/backup/2020-08-14-running/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-08-14-running/</guid>
+      <description>4.95km Running NRC 추가 동네 한바퀴 흐림, 28도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200810 Running</title>
+      <link>/backup/2020-08-10-running/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-08-10-running/</guid>
+      <description>5.01km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200806 Running</title>
+      <link>/backup/2020-08-06-running/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-08-06-running/</guid>
+      <description>4.84km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200803 Running</title>
+      <link>/backup/2020-08-03-running/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-08-03-running/</guid>
+      <description>5.06km Running NRC 추가 동네 한바퀴 흐림, 26도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200729 Running</title>
+      <link>/backup/2020-07-29-running/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-07-29-running/</guid>
+      <description>4.96km Running NRC 추가 동네 한바퀴 흐림, 24도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200724 Running</title>
+      <link>/backup/2020-07-24-running/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-07-24-running/</guid>
+      <description>4.92km Running NRC 추가 동네 한바퀴 흐림, 22도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200720 Running</title>
+      <link>/backup/2020-07-20-running/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-07-20-running/</guid>
+      <description>4.57km Running NRC 추가 동네 한바퀴 못뜀 흐림, 26도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200714 Running</title>
+      <link>/backup/2020-07-14-running/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-07-14-running/</guid>
+      <description>5.03km Running NRC 추가 동네 한바퀴 흐림, 20도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200708 Running</title>
+      <link>/backup/2020-07-08-running/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-07-08-running/</guid>
+      <description>4.89km Running NRC 추가 동네 한바퀴 안개, 23도 ..</description>
+      
+    </item>
+    
+    <item>
+      <title>20200703 Running</title>
+      <link>/backup/2020-07-03-running/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-07-03-running/</guid>
+      <description>4.99km Running NRC 추가 동네 한바퀴 맑음, 20도 .. 습관의 영역에 들어간 듯</description>
+      
+    </item>
+    
+    <item>
+      <title>20200701 Running</title>
+      <link>/backup/2020-07-01-running/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-07-01-running/</guid>
+      <description>4.92km Running NRC 추가 동네 한바퀴 맑음, 21도 .. 출발 지점을 변경하니 전체 거리가 대략 비슷하게 나온다.</description>
+      
+    </item>
+    
+    <item>
+      <title>20200626 Running</title>
+      <link>/backup/2020-06-26-running/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-06-26-running/</guid>
+      <description>4.96km Running NRC 추가 동네 한바퀴 맑음, 24도 .. 매번 같은 거리를 달리지만 NRC에 측정되는 거리는 들쑥날쑥이다. 앱의 문제인지 아이폰GPS의 문제인지 알 수 없으나 약 5</description>
+      
+    </item>
+    
+    <item>
+      <title>20200622 Running</title>
+      <link>/backup/2020-06-22-running/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-06-22-running/</guid>
+      <description>5.03km Running 고찰 NRC 추가 동네 한바퀴 맑음, 22도 고찰 그날 컨디션이 기록에 미치는 영향을 보고자 이것저것 적어보았었다. 그러나 그것들과 무관하게 기록은 뒤쳐지고 시간이</description>
+      
+    </item>
+    
+    <item>
+      <title>20200619 Running</title>
+      <link>/backup/2020-06-19-running/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-06-19-running/</guid>
+      <description>5.18km Running NRC 추가 동네 한바퀴 맑음, 20도</description>
+      
+    </item>
+    
+    <item>
+      <title>20200615 Running</title>
+      <link>/backup/2020-06-15-running/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-06-15-running/</guid>
+      <description>5.03km Running NRC 추가 동네 한바퀴 맑음, 25도 식후 60분후, full 더움 왼쪽 무릎 보호대 착용 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200612 Running</title>
+      <link>/backup/2020-06-12-running/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-06-12-running/</guid>
+      <description>5.3km Running NRC 추가 동네 한바퀴 가랑비, 23도 식후 60분후, full 더움 왼쪽 무릎 보호대 착용 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200609 Running</title>
+      <link>/backup/2020-06-09-running/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-06-09-running/</guid>
+      <description>5.18km Running NRC 추가 동네 한바퀴 맑음, 23도 식후 60분후, full 더움 왼쪽 무릎 보호대 착용 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200604 Running</title>
+      <link>/backup/2020-06-04-running/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-06-04-running/</guid>
+      <description>4.93km Running NRC 추가 동네 한바퀴 맑음, 25도 식후 60분후, full 더움 왼쪽 무릎 보호대 착용 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200531 Running</title>
+      <link>/backup/2020-05-31-running/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-31-running/</guid>
+      <description>6.53km Running NRC 추가 동네 한바퀴(조금 모자람) 비온후 습함, 19도 식후 60분후, full 많이 습하여 힘듬 주말 외출로 힘든 상태 왼쪽 무릎 보호대 착용 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200529 Running</title>
+      <link>/backup/2020-05-29-running/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-29-running/</guid>
+      <description>6.53km Running NRC 추가 동네 한바퀴 맑음, 18도 식후 60분후, full 뛰자마자 힘듦 왼쪽 무릎 보호대 착용 GPS이상으로 기록이 심하게 이상하게 나옴 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200524 Running</title>
+      <link>/backup/2020-05-24-running/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-24-running/</guid>
+      <description>5.59km Running NRC 추가 동네 반바퀴 맑음, 22도 간식후 60분후, half 세차, 캠프닉등 피곤한 상태 출발하자마자 발이 무거움, 4키로에서 무너짐 왼쪽 무릎 보호대 착용 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200522 Running</title>
+      <link>/backup/2020-05-22-running/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-22-running/</guid>
+      <description>5.77km Running NRC 추가 동네 한바퀴 맑음, 13도 식후 60분후, full 워밍업 0.8km 후 러닝 왼쪽 무릎 보호대 착용 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200520 Running</title>
+      <link>/backup/2020-05-20-running/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-20-running/</guid>
+      <description>6.20km Running NRC 추가 동네 한바퀴 맑음, 14도 식후 60분후, full 짧은 보폭으로 빠르게 시작함. 호흡 유지 오른쪽 무릎 보호대 착용 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200518 Running</title>
+      <link>/backup/2020-05-18-running/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-18-running/</guid>
+      <description>5.76km Running NRC 추가 동네 한바퀴 가랑비, 18도 식후 60분후, full 주말 노동으로 피곤 완주후 왼쪽 무릎 아픔 기상 6시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200512 Running</title>
+      <link>/backup/2020-05-12-running/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-12-running/</guid>
+      <description>6.03km Running NRC 추가 동네 한바퀴 맑음, 18도 식후 60분후, full 초반 좋음. 4km부터 호흡조절 힘듦 기상 5시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200510 Running</title>
+      <link>/backup/2020-05-10-running/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-10-running/</guid>
+      <description>5.4km Running NRC 추가 동네 한바퀴 맑음, 19도 식후 90분후, full 호흡조절 기상 7시</description>
+      
+    </item>
+    
+    <item>
+      <title>20200506 Running</title>
+      <link>/backup/2020-05-06-running/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-06-running/</guid>
+      <description>5.85km Running NRC 추가 동네 한바퀴 맑음, 15도, 바람 식후 70분후, full 초반 호흡조절 어려움 기상 5시30분</description>
+      
+    </item>
+    
+    <item>
+      <title>20200502 Running</title>
+      <link>/backup/2020-05-02-running/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/2020-05-02-running/</guid>
+      <description>6km Running NRC 추가 동네 한바퀴 흐림, 19도 식후 50분후, full 3km 호흡조절 어려움 기상 9시</description>
+      
+    </item>
+    
+  </channel>
+</rss>

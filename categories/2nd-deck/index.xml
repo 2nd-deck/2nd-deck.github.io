@@ -24,21 +24,11 @@
     
     <item>
       <title>React Native</title>
-      <link>/post/2020-12-30-reactnative/</link>
+      <link>/backup/2020-12-30-reactnative/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-12-30-reactnative/</guid>
+      <guid>/backup/2020-12-30-reactnative/</guid>
       <description>노마드코더 React Native로 날씨앱 만들기 강의 내용 기타 react native는 마지막 컴파일링 할 때, 각각 IOS(objective-c)/android(java) 네이티브 코드로 실행이 됨. expo는 xcode, android studio 사용 없이</description>
-      
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>/post/2021-09-07-javascript/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-09-07-javascript/</guid>
-      <description>생활코딩 Javascript 강의 Javascript 기본 object(객체) function(함수) Parameter(매개변수) Argument(인자) object 문법 var coworkers = { &amp;quot;programmer&amp;quot;:&amp;quot;egoing&amp;quot;, &amp;quot;designer&amp;quot;:&amp;quot;leezche&amp;quot; }; document.write(&amp;quot;programmer</description>
       
     </item>
     

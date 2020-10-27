@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/no.1-hold/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book - 모든 글쓰기 / 한호택</title>
+      <link>/post/2020-10-27-book-writing/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-27-book-writing/</guid>
+      <description>모든 글쓰기 - 한호택 기본정보 북펀딩 2020 감상 논리 연역법: 알고 있는 진리에서 출발해 결론을 끌어내는 방법 연역법의 출발점인 대전제는 우리가 진리라고 믿는 사실 또는</description>
+      
+    </item>
+    
+    <item>
+      <title>Book - 더 해빙 / 이서윤, 홍주연</title>
+      <link>/post/2020-10-25-book-having/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-25-book-having/</guid>
+      <description>더 해빙 - 이서윤, 홍주연 기본정보 수오서재 2020 감상 부와 행운을 부르는 방법에 대한 책인가, 누군가를 신격화 하고 가치를 드높이기 위한 책인가.</description>
+      
+    </item>
+    
+    <item>
+      <title>Book - 한번에 10권 플랫폼 독서법 / 김병완</title>
+      <link>/post/2020-10-23-book-platform/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-23-book-platform/</guid>
+      <description>한번에 10권 플랫폼 독서법 - 김병완 기본정보 청림출판 2020 감상 이 책의 대부분의 페이지는 플랫폼 독서법의 중요성에 대해 얘기한다. 팔기 위해 만들어진 책의 느낌.</description>
+      
+    </item>
     
     <item>
       <title>Book - THE SYSTEM / 스콧 애덤스</title>
@@ -24,11 +54,11 @@
     
     <item>
       <title>Book - 실전 리액트 프로그래밍 / 이재승</title>
-      <link>/post/2020-10-30-book-react/</link>
+      <link>/post/2020-09-30-book-react/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-10-30-book-react/</guid>
-      <description>실전 리액트 프로그래밍 - 이재승 기본정보 프로그래밍 인사이트 2019 감상 자바스크립트 경험이 거의 없고 생활코딩의 리액트 강좌만 들은 상태에서, 이책은 잘못된 선택이</description>
+      <guid>/post/2020-09-30-book-react/</guid>
+      <description>실전 리액트 프로그래밍 - 이재승 기본정보 프로그래밍 인사이트 2019 감상 입문자를 위한 책이 아니라, 기능에 대해 어느정도 이해한 사람이 찾아보는 용도 또는 관련 기능에</description>
       
     </item>
     

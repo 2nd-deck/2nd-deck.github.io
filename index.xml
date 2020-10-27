@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,19 @@
     <item>
       <title>Posts</title>
       <link>/post/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backups</title>
+      <link>/backup/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/</guid>
       <description></description>
       
     </item>
