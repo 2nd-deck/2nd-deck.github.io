@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-ko</language>
     <copyright>©2020 2nd Deck</copyright>
-    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book - 진격의 빅데이터 / 최천규, 김주원, 이상국</title>
+      <link>/post/2020-10-29-book-bigdata/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-29-book-bigdata/</guid>
+      <description>진격의 빅데이터 - 최천규, 김주원, 이상국 기본정보 이담 2018 감상 빅데이터에 대한 괜찮은 입문서. 빅데이터 중요성과 생태계 그리고 빅데이터 전문가의 역할 및 갖추어</description>
+      
+    </item>
     
     <item>
       <title>Book - 모든 글쓰기 / 한호택</title>
